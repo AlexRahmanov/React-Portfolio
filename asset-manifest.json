@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.caf4501c.css",
-    "main.js": "/react-portfolio/static/js/main.faf4de34.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Drinkaholics.png": "/react-portfolio/static/media/Drinkaholics.264c99d2a4bfe3af3462.png",
-    "static/media/lazy-plant-caretaker.png": "/react-portfolio/static/media/lazy-plant-caretaker.e96155bb75c92d046349.png",
-    "static/media/backgroundimage.png": "/react-portfolio/static/media/backgroundimage.ccb71b6de380be29d7b6.png",
-    "static/media/coverImage.jpg": "/react-portfolio/static/media/coverImage.41b0fc741f53926bcb3f.jpg",
-    "static/media/Alexander Rahmanov.docx": "/react-portfolio/static/media/Alexander Rahmanov.ee61e85b61e185168d4e.docx",
-    "static/media/profile.png": "/react-portfolio/static/media/profile.6a852ab0f3a0032126fd.png",
-    "static/media/Weather Dashboard.png": "/react-portfolio/static/media/Weather Dashboard.b8cdde61acb65efa69ce.png",
-    "static/media/Resume.png": "/react-portfolio/static/media/Resume.7e267f668b72ad4c92aa.png",
-    "static/media/Work Day Scheduler.png": "/react-portfolio/static/media/Work Day Scheduler.76f35685a20360b13db8.png",
-    "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.669fc86ccdf7770adc01.png",
-    "static/media/Coding Quiz.png": "/react-portfolio/static/media/Coding Quiz.dd4fa618977741545256.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.caf4501c.css.map": "/react-portfolio/static/css/main.caf4501c.css.map",
-    "main.faf4de34.js.map": "/react-portfolio/static/js/main.faf4de34.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.caf4501c.css",
+    "main.js": "/React-Portfolio/static/js/main.018204fa.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Drinkaholics.png": "/React-Portfolio/static/media/Drinkaholics.264c99d2a4bfe3af3462.png",
+    "static/media/lazy-plant-caretaker.png": "/React-Portfolio/static/media/lazy-plant-caretaker.e96155bb75c92d046349.png",
+    "static/media/backgroundimage.png": "/React-Portfolio/static/media/backgroundimage.ccb71b6de380be29d7b6.png",
+    "static/media/coverImage.jpg": "/React-Portfolio/static/media/coverImage.41b0fc741f53926bcb3f.jpg",
+    "static/media/Alexander Rahmanov.docx": "/React-Portfolio/static/media/Alexander Rahmanov.ee61e85b61e185168d4e.docx",
+    "static/media/profile.png": "/React-Portfolio/static/media/profile.6a852ab0f3a0032126fd.png",
+    "static/media/Weather Dashboard.png": "/React-Portfolio/static/media/Weather Dashboard.b8cdde61acb65efa69ce.png",
+    "static/media/Resume.png": "/React-Portfolio/static/media/Resume.7e267f668b72ad4c92aa.png",
+    "static/media/Work Day Scheduler.png": "/React-Portfolio/static/media/Work Day Scheduler.76f35685a20360b13db8.png",
+    "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.669fc86ccdf7770adc01.png",
+    "static/media/Coding Quiz.png": "/React-Portfolio/static/media/Coding Quiz.dd4fa618977741545256.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.caf4501c.css.map": "/React-Portfolio/static/css/main.caf4501c.css.map",
+    "main.018204fa.js.map": "/React-Portfolio/static/js/main.018204fa.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caf4501c.css",
-    "static/js/main.faf4de34.js"
+    "static/js/main.018204fa.js"
   ]
 }
