@@ -31,11 +31,21 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
 # Mock-Up
-1.![mockup1](https://user-images.githubusercontent.com/86209350/178157601-2c5b48b3-e558-4f14-b2e2-2726deac24c4.jpg)
+![mockup1](https://user-images.githubusercontent.com/86209350/178157601-2c5b48b3-e558-4f14-b2e2-2726deac24c4.jpg)
 
-2.![mockup2](https://user-images.githubusercontent.com/86209350/178157608-9cca5aca-6e75-4dfc-8fa3-688329381f49.jpg)
+![mockup2](https://user-images.githubusercontent.com/86209350/178157608-9cca5aca-6e75-4dfc-8fa3-688329381f49.jpg)
 
-3. ![mockup3](https://user-images.githubusercontent.com/86209350/178157610-fdb75ceb-eefa-4107-949b-a471b1fe505c.jpg)
+![mockup3](https://user-images.githubusercontent.com/86209350/178157610-fdb75ceb-eefa-4107-949b-a471b1fe505c.jpg)
+
+# Available Scripts
+In the project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
 
 
 
