@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.caf4501c.css",
-    "main.js": "/React-Portfolio/static/js/main.018204fa.js",
+    "main.js": "/React-Portfolio/static/js/main.f9085714.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Drinkaholics.png": "/React-Portfolio/static/media/Drinkaholics.264c99d2a4bfe3af3462.png",
     "static/media/lazy-plant-caretaker.png": "/React-Portfolio/static/media/lazy-plant-caretaker.e96155bb75c92d046349.png",
@@ -16,11 +16,11 @@
     "static/media/Coding Quiz.png": "/React-Portfolio/static/media/Coding Quiz.dd4fa618977741545256.png",
     "index.html": "/React-Portfolio/index.html",
     "main.caf4501c.css.map": "/React-Portfolio/static/css/main.caf4501c.css.map",
-    "main.018204fa.js.map": "/React-Portfolio/static/js/main.018204fa.js.map",
+    "main.f9085714.js.map": "/React-Portfolio/static/js/main.f9085714.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caf4501c.css",
-    "static/js/main.018204fa.js"
+    "static/js/main.f9085714.js"
   ]
 }
